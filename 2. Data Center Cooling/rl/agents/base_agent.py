@@ -22,10 +22,10 @@ import random
 import time
 import random
 import numpy as np
-
-from keras.models import Sequential
-from keras.layers import Dense
-from keras.optimizers import Adam
+import tensorflow as tf
+from tensorflow.keras.models import Sequential
+from tensorflow.keras.layers import Dense
+from tensorflow.keras.optimizers import Adam
 
 
 
